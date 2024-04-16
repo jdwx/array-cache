@@ -1,0 +1,18 @@
+{
+  "name": "jdwx/args",
+  "description": "A trivial implementation of PSR CacheInterface using an in-memory array.",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "JDWX\\ArrayCache\\": "src/"
+    }
+  },
+  "require": {
+    "php": ">=8.0.0",
+    "psr/simple-cache": "^3.0"
+  },
+  "require-dev": {
+    "jetbrains/phpstorm-attributes": "^1.0",
+    "phpunit/phpunit": "^9.6"
+  }
+}
