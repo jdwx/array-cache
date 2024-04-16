@@ -1,5 +1,5 @@
 {
-  "name": "jdwx/args",
+  "name": "jdwx/array-cache",
   "description": "A trivial implementation of PSR CacheInterface using an in-memory array.",
   "license": "MIT",
   "autoload": {
